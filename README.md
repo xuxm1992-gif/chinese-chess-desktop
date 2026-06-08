@@ -9,6 +9,8 @@ Reference docs:
 
 - 中文：<https://platform.moonshot.cn/docs/guide/use-web-search>
 - English: <https://platform.kimi.com/docs/guide/use-web-search>
+- **踩坑指南 / Agent skill 文档**：[`docs/kimi-web-search-skill.md`](docs/kimi-web-search-skill.md)
+  — 把另一个 AI Agent 反复写挂的 6 个坑（endpoint/model 错配、`builtin_function` 写法、tool-call 循环、arguments 回显约定等）整理成一份可直接喂给 Agent 的实战教学。
 
 ## Features
 
